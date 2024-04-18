@@ -7,3 +7,4 @@ psutil-home-assistant
 sqlalchemy
 fnvhash
 fnv_hash_fast
+aiohttp>=3.9.4 # not directly required, pinned by Snyk to avoid a vulnerability
