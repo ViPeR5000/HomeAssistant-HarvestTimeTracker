@@ -7,3 +7,4 @@ psutil-home-assistant
 sqlalchemy
 fnvhash
 fnv_hash_fast
+idna>=3.7 # not directly required, pinned by Snyk to avoid a vulnerability
